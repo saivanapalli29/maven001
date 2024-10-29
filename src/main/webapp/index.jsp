@@ -62,7 +62,7 @@
              <td>55</td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>3 6666</td>
             <td>tendulkar</td> 
             <td>280</td> 
             <td>19800</td>
