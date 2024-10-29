@@ -35,7 +35,7 @@
         <th>name</th>
         <th>matches sai iiii hgfgfkg
         </th>
-        <th>runs</th>
+        <th>runs ttt yyy ggg</th>
         <th>highest score</th>
         <th>average</th>
             
